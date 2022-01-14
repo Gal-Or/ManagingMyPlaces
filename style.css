@@ -1,0 +1,122 @@
+h1 {
+    text-align: center;
+    font-size: 4vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 2.5vw;
+    text-align: center;
+    color: burlywood;
+
+}
+
+
+div#info_container {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    width: 40%;
+}
+
+li.item {
+    width: 9vw;
+    align-items: center;
+    margin-top: 0.2vw;
+    background: brown;
+    border-radius: 15px;
+    padding: 0.3vw 1vw;
+    text-align: center;
+    color: white;
+    list-style: decimal-leading-zero;
+}
+
+body {
+    background-color: #444;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+div#my_site {
+    width: 63%;
+    margin: auto;
+}
+
+#my_site img{
+    width: 80%;
+}
+
+p{
+    color: white;
+}
+
+a#back {
+    margin: auto;
+    background-color: burlywood;
+    width: 6vw;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.5vw;
+    text-decoration: none;
+    color: #444;
+}
+
+img {
+    border: solid;
+    border-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.add_button {
+    margin-left: 1vw;
+    background-color: blue;
+    color: white;
+    font-size: .8vw;
+    border-radius: 27px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.remove_button {
+    background-color: red;
+    color: white;
+    font-size: .8vw;
+    border-radius: 27px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#back {
+    display: none;
+}
+
+#list {
+    display: flex;
+}
+
+.inputs_container {
+    width: 44%;
+    align-items: center;
+}
+
+
+
+.inputs {
+    margin: auto;
+    width: 75%;
+    display: flow-root;
+}
+
+input {
+    border-radius: 20px;
+}

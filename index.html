@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>index.html</title> 
+       <link rel="stylesheet" href="./style.css"> 
+       <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+       <script src="./allRequests.js" defer></script>
+    </head>
+    
+    <body>
+        <h1>The 5 most beautiful sites I have visited</h1>
+        <hr/>
+        <a href="/index.html" id="back" style="display: none;">Back</a>
+        <div id="info_container">
+        <div>
+            <ul class="ListOfSeites">
+            </ul>
+        </div>
+
+            <div class="inputs_container" style="display: block">
+                <div class="inputs">
+                    <label for="fname">Site:</label>
+                    <input type="text" id="fname" name="fname"><br><br>
+                    <label for="lname">Description: </label>
+                    <input type="text" id="Description" name="Description"><br><br>
+                    <label for="lname">Image Link: </label>
+                    <input type="text" id="Image" name="Image"><br><br>
+                    
+                </div>
+            <a onclick="addToList()" class="add_button" >Add To list</a>
+            <a onclick="removeFromList()" class="remove_button">Remove From list</a>
+        </div>
+        </div>
+        
+        <div id="my_site"></div>
+    </body>
+</html>

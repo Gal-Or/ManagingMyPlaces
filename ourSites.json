@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "61d17ccdc39b0cb20d85170c",
+    "name": "Dead Sea",
+    "description": "The Dead Sea, known in Hebrew as Yam Ha-Melakh (the Sea of Salt) is the lowest point on earth. It’s surrounded by the stunning landscape of the Negev Desert. The shores of the Dead Sea are the lowest point on the surface of the earth. The saline waters of the lake means no fish can survive in the salty waters, hence the name. The other result of the salty water is their renowned health and healing properties of the mud. You can also float naturally in them. There are tours to the Dead Sea available from across Israel which allow you to experience this yourself. Alternatively, staying at a Dead Sea Hotel provides additional spa and treatment experiences.",
+    "img": "../assets/deadsea4.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "61d17d87c39b0cb20d851723",
+    "name": "Eilat",
+    "description": "Eilat is a wonderful, but very busy city. It has several hotels, resorts and all-inclusive, numerous bars, clubs, discos and a few shopping centers to shop with no VAT.             <br><br>             Besides all these amazing places, in Eilat, you and your children will be able to visit a breathtaking coral beach, an outstanding dolphin reef, and a number of places to practice snorkeling and scuba diving with underwater views you will never forget.             <br><br>             If you are going to Eilat in the middle of the summer, be ready for an average temperature of 37ºC. It is always hot in Eilat and because of the lack of rain, it has a very dry environment where until you get used to it, it can feel hard to catch your own breath. During the winter and during the day, the temperatures can go down to around 23ºC, but it is hard for it to go even lower. At night, however, since it is located in the middle of the desert, temperatures can go down, so we recommend you carry a light jacket with you.",
+    "img": "../assets/eilat4.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "61d17dc9c39b0cb20d851730",
+    "name": "Hermon mountain",
+    "description": "The highest point in Israel is an inviting place to hike all year round. Skiers, of course, will head straight for Mount Hermon in winter, but those who prefer to walk can also have a ball there. When summer has already set in over the rest of the country, Mount Hermon is still bursting with the vitality of an extended springtime.             <br><br>             In the dog days of July and August, take a break from the beach and the steaming city and cool off on the Golan. Don't forget to bring warm clothing with you - the nights are nippy. On a clear day, which is the norm in summer, you'll have a superb view of the mountains of: Galilee, the Golan, and southern Lebanon. And even in the middle of summer, there are still snowy areas in the upper part of Mount Hermon (the chair lift operates all year round).             <br><br>             Summer visitors can enter the site free of charge and take part in free tours led by guides from the Nature Reserves Authority. You can also take a jeep tour, with the expert assistance of Safari Hahermon.             <br><br>             The slopes of Mount Hermon offer other attractions as well. Part of the area is classified as a military zone, which means you'll have to make advance arrangements if you want to visit there. The hosts at your lodgings can tell you how.             <br><br>             A particularly noteworthy Hermon site is Har Habtarim, 1,296 meters above sea level on the slopes of Katef Sion. According to tradition, this is where God promised Abraham that He would give the land to his descendants. An ancient tomb marks the spot, and huge oaks grow next to it.             <br><br>             Next to the summit of Har Kahal (1411 meters above sea level), lead quarries have been discovered; the source of raw materials for the kohl used in ancient eye makeup. Further down is the proud Ka'alat Namrud, one of the best preserved maseluke fortresses from the Crusader period in Israel. The citadel overlooks the Banias Spring, where you can have a refreshing hike even on the hottest summer days.             <br><br>             At the Druse hospitality center in the village of Ein Kinya, you can learn about Druse life on the Golan and get a taste of it as well, with Druse pita, labaneh, and coffee.             <br><br>             Next to the tomb of Nebi Hazuri, the Jewish National Fund developed a lovely wayside picnic spot. In Neve Ativ, art lovers will enjoy visiting the gallery and workshop of a local artist who works in glass. Hungry? Habokrim Restaurant (Merom Golan) and the Druse eateries will satisfy any appetite. In summer, don't miss the berry picking at Moshav Sha'al.",
+    "img": "../assets/hermon4.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "61d17de8c39b0cb20d851732",
+    "name": "The Western Wall",
+    "description": "The Western Wall (sometimes called the Wailing Wall, or the Kotel, the Hebrew word for wall) is one of the last remaining walls of the Temple Mount,          the elevated plaza in the Old City of Jerusalem that was the site of both ancient Jewish temples.          It is the holiest site in Judaism and a place of pilgrimage and prayer.         <br/><br/>         The holiness of the Western Wall derives from its proximity to the location where the ancient temples once stood and which today houses the Al Aqsa Mosque and the iconic gold-topped Dome of the Rock, the third holiest site in Islam, from which Muhammad is believed to have ascended to heaven. After the Second Temple was destroyed in by the Romans in 70 CE, the Western Wall became the closest Jews could come to the place where the Temple once stood. Opposite the wall is a large open plaza that leads into a gender-segregated place for prayer. Many have the custom of writing prayers on pieces of paper and placing them inside crevices of the wall.",
+    "img": "../assets/westernwall.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "61d17e05c39b0cb20d851734",
+    "name": "Sea Of Galilee",
+    "description": "The Sea of Galilee (the Kinneret) is a magnificent geographical marvel surrounded by pretty rural agricultural settlements. It’s famous because of its prominence among New Testament writings. The whole of the Galilee is since this is the place where Jesus lived. The Sea of Galilee is one of the earliest settled areas in the Land of Israel. It boasts archaeological ruins sitting alongside some of the first pioneering settlements in Israel. The Kinneret also houses religious sites, modern cities, and endless outdoor pursuits.",
+    "img": "../assets/seaofgalilee4.jpg",
+    "__v": 0
+  }
+]
